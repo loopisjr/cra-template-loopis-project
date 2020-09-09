@@ -2,7 +2,7 @@ import React from 'react';
 
 import './styles.css';
 
-function NoutFound() {
+function NotFound() {
   return (
     <div id="notfound">
       <h1>Page Not Found</h1>
@@ -10,4 +10,4 @@ function NoutFound() {
   );
 }
 
-export default NoutFound;
+export default NotFound;

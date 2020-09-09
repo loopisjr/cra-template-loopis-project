@@ -3,7 +3,7 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 // Importação das paginas
 import Home from './pages/Home';
-import NotFound from './pages/NoutFound';
+import NotFound from './pages/NotFound';
 
 function Routes() {
   return (
