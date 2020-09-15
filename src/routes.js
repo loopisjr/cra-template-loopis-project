@@ -9,9 +9,9 @@ function Routes() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path='/' component={Home} />
+        <Route exact path="/" component={Home} />
         {/* Caso a rota informada não corresponda a nenhuma das informadas */}
-        <Route path='*' component={NotFound} />
+        <Route path="*" component={NotFound} />
       </Switch>
     </BrowserRouter>
   );
