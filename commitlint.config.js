@@ -1,1 +1,1 @@
-module.exports = {extends: ['./node_modules/loopis-conventions']};
+module.exports = { extends: ['./node_modules/loopis-conventions'] };
